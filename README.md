@@ -31,7 +31,7 @@ Como exemplo trouxe um código que simula o jogo do Mario, onde a cada tipo de a
 
 # **Structure**
 
-![Imagem](https://github.com/LucasHOliveira/Trabalho-Strategy/blob/main/State.PNG)
+![Imagem](https://github.com/LucasHOliveira/Trabalho-State/blob/main/State.PNG)
 
 # **Participants**
 
@@ -41,4 +41,4 @@ Como exemplo trouxe um código que simula o jogo do Mario, onde a cada tipo de a
 
 # **Sample Code**
 
-[Link para a pasta do código](https://github.com/LucasHOliveira/Trabalho-Strategy/tree/main/State-Codigo/ProjetoState)
+[Link para a pasta do código](https://github.com/LucasHOliveira/Trabalho-State/tree/main/State-Codigo/ProjetoState)
