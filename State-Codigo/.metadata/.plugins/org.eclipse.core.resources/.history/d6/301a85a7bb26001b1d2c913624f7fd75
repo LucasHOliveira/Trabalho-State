@@ -1,0 +1,15 @@
+public class MarioPequeno implements MarioState {
+ 
+	@Override
+    public MarioState levarDano() {
+        System.out.println("Mario morto");
+        return new MarioPequeno();
+    }
+	
+    @Override
+    public MarioState levarOutroDano() {
+        System.out.println("Mario morto");
+        return new MarioMorto();
+    }
+ 
+}
